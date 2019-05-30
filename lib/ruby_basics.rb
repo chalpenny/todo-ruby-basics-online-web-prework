@@ -1,21 +1,21 @@
 def division(num1, num2)
- 
+ num1 / num2
 end
 
 def assign_variable(value)
-  
+
 end
 
-def argue
-  
+def argue(x)
+  return(x)
 end
 
-def greeting
-
+def greeting(salutation, name)
+  puts "salutation name"
 end
 
 def return_a_value
-
+  puts "Nice"
 end
 
 def last_evaluated_value
