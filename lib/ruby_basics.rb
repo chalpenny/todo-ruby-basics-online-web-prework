@@ -15,11 +15,11 @@ def greeting(salutation, name)
 end
 
 def return_a_value
-  puts "Nice"
+  return "Nice"
 end
 
 def last_evaluated_value
-  puts "Expert"
+  return "Expert"
 end
 
 def pizza_party(topping = "cheese")
